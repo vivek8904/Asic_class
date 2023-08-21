@@ -101,17 +101,15 @@ int main(){
 
 Using the gcc compiler, we compiled the program to get the output.
 
-`gcc sumton.c`
-`.\a.out`
 
-![image](https://github.com/RohithNagesh/pes_asic_class/assets/103078929/838fe23f-5655-4724-af96-ab8ae13f084d)
 
+file:///home/vivek/Pictures/Screenshots/Screenshot%20from%202023-08-21%2018-33-06.png
 
 ## RISCV GCC Compiler and Dissemble
 
 Using the riscv gcc compiler `riscv64-unknown-elf-gcc -O1 -mabi=lp64 -march=rv64i -o sumton.o sumton.c`, we compiled the C program.
 
-![image](https://github.com/RohithNagesh/pes_asic_class/assets/103078929/ecee943b-5723-463e-907f-fed2d45e2c41)
+![image](https://github.com/vivek8904/Pes_Asic_class/assets/130572147/3b7135eb-5f0b-4508-9809-824a63fb04c5)
 
 To get the assembly code for the C program, `riscv64-unknown-elf-objdump -d sumton.o | less` .
 
