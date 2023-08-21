@@ -103,13 +103,13 @@ Using the gcc compiler, we compiled the program to get the output.
 
 
 
-file:///home/vivek/Pictures/Screenshots/Screenshot%20from%202023-08-21%2018-33-06.png
+![image](https://github.com/vivek8904/Pes_Asic_class/assets/130572147/3b7135eb-5f0b-4508-9809-824a63fb04c5)
 
 ## RISCV GCC Compiler and Dissemble
 
 Using the riscv gcc compiler `riscv64-unknown-elf-gcc -O1 -mabi=lp64 -march=rv64i -o sumton.o sumton.c`, we compiled the C program.
+![image](https://github.com/vivek8904/Pes_Asic_class/assets/130572147/dbef876e-cc04-4757-acb4-1a08137a6452)g
 
-![image](https://github.com/vivek8904/Pes_Asic_class/assets/130572147/3b7135eb-5f0b-4508-9809-824a63fb04c5)
 
 To get the assembly code for the C program, `riscv64-unknown-elf-objdump -d sumton.o | less` .
 
@@ -127,13 +127,13 @@ When we use `-Ofast` optimisation, we can see that the number of instructions ha
 
 `spike pk sum1ton.o` is used to check whether the instructions produced are right to give the correct output.
 
-![image](https://github.com/RohithNagesh/pes_asic_class/assets/103078929/91cefa96-d8ff-470d-a463-93c8622c321a)
+![image](https://github.com/vivek8904/Pes_Asic_class/assets/130572147/53c13c14-9b66-4f21-9663-42c33707422e)
 
 `spike -d pk sum1ton.c` is used for debugging.
 
 The contents of the registers can also be viewed.
 
-![image](https://github.com/RohithNagesh/pes_asic_class/assets/103078929/a769813b-a924-4ea7-8578-e99bbfdf221b)
+![image](https://github.com/vivek8904/Pes_Asic_class/assets/130572147/277c629a-d793-4c55-ac15-aefea9e55c2c)
 
 # Integer Number Representation 
 
