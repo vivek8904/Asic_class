@@ -160,7 +160,7 @@ int main(){
 	return 0;
 }
 ```
-![image](https://github.com/RohithNagesh/pes_asic_class/assets/103078929/26b09651-3729-48bb-adc5-405fbbb7c5dc)
+![image](https://github.com/vivek8904/Pes_Asic_class/assets/130572147/a9c8aa53-ac0e-4827-95ca-9703737861a0)
 
 **Signed 64-bit Number**
 ``` c
@@ -175,7 +175,7 @@ int main(){
 	return 0;
 }
 ```
-![image](https://github.com/RohithNagesh/pes_asic_class/assets/103078929/538fd46d-94df-41e9-aa18-83a0a5ba6526)
+![image](https://github.com/vivek8904/Pes_Asic_class/assets/130572147/c1b545e8-d8b4-471f-beaf-4c653cb91fa4)
 
 # Application Binary Interface
 ## Introduction to ABI
@@ -280,5 +280,4 @@ ret
 **Compilation:** To compile C code and Asseembly file use the command `riscv64-unknown-elf-gcc -O1 -mabi=lp64 -march=rv64i -o custom1to9.o custom1to9.c load.s` this would generate object file `custom1to9.o`.
 
 **Execution:** To execute the object file run the command `spike pk custom1to9.o`
-
-![image](https://github.com/RohithNagesh/pes_asic_class/assets/103078929/ddb45c8c-11cc-4d49-b31d-c922698e6301)
+![image](https://github.com/vivek8904/Pes_Asic_class/assets/130572147/1074edc4-fbaa-4ff4-9b50-c445a1e9aa58)
