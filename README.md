@@ -284,14 +284,6 @@ ret
 
 # DAY 3
 
-## Introduction to iverilog testbench
-### Testbench
-- Setup to apply the stimulus to the design to check its functionality.
-- Simulator checks for the changes on the input signals and then evaluates the output for the changes inputs.
-
-  ## IVERILOG
-
- ![image](https://github.com/benedict04/pes_asic_class/assets/109859485/ea6e48b0-31e4-4d9e-8709-64e2a7cc60d4)
 
  # Labs using iverilog and gtkwave
 ## Introduction to lab
@@ -302,7 +294,7 @@ ret
    1. my_lib: It contains all the standard cell libraries and verilog module
    2. verilog_files: It contains all the source code and testbench required for the lab
 
- ![image](https://github.com/benedict04/pes_asic_class/assets/109859485/1f368756-9133-4f33-a358-b320b653d2d0)
+![image](https://github.com/vivek8904/Pes_Asic_class/assets/130572147/528e5009-d6e7-4f55-b71e-7851b4eb6905)
 
  ## Introduction iverilog gtkwave
 - Go to verilog_files directory
