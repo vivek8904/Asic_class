@@ -300,7 +300,7 @@ ret
 - Go to verilog_files directory
 - Load Design and Testbench using the command `iverilog good_mux.v tb_good_mux.v`
 
- ![image](https://github.com/benedict04/pes_asic_class/assets/109859485/acc28cff-36b2-4859-babc-2f11378ef561)
+![image](https://github.com/vivek8904/Pes_Asic_class/assets/130572147/a27ed156-3272-4b05-a9b3-2e89c737cf17)
 
  - Upon loading sucessfully `a.out` will be generated
 - Execute the generated file it would dump `gtkwave tb_good_mux.vcd` file
