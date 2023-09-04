@@ -362,7 +362,8 @@ Yosys is an synthesizer which is used to convert RTL to netlist
 
   5.  Logic realized: `show`
 
-  ![image](https://github.com/benedict04/pes_asic_class/assets/109859485/1172361e-5f35-460f-9938-6686b42633d7)
+ ![image](https://github.com/vivek8904/Pes_Asic_class/assets/130572147/520f992f-2354-4439-841a-33bf14b580f6)
+
 
   6. Write netlist: `write_verilog -noattr good_mux_netlist.v`
     
