@@ -895,12 +895,14 @@ endmodule
 
 ![image](https://github.com/vivek8904/Pes_Asic_class/assets/130572147/c4603e09-fbcf-4213-a5b5-c2dc913beb4d)
 
+**Synthesis**
 
-![image](https://github.com/benedict04/pes_asic_class/assets/109859485/cb0773a4-4fee-45ac-80b6-89145b36c37d)
+![image](https://github.com/vivek8904/Pes_Asic_class/assets/130572147/e25fb4c8-f290-4480-b14e-2336823da880)
+
 
 **GLS**
 
-![image](https://github.com/benedict04/pes_asic_class/assets/109859485/a4363e2b-c854-4846-aecf-45903d3cfd4c)
+![image](https://github.com/vivek8904/Pes_Asic_class/assets/130572147/77a4af6b-24ca-4fd2-b60e-27f2d5e61952)
 
 # Labs on synth-sim mismatch for blocking statement
 
