@@ -339,7 +339,8 @@ Yosys is an synthesizer which is used to convert RTL to netlist
 + Go to verilog_files directory
 + once you get to verilog_files directory, Invoke yosys by using the command `yosys`
 
-  ![image](https://github.com/benedict04/pes_asic_class/assets/109859485/c629c4b4-3b06-4b83-b796-97231ab80575)
+![image](https://github.com/vivek8904/Pes_Asic_class/assets/130572147/c904f1dd-eb42-454a-a9e4-32d067cab8c8)
+
 
   1. Read library: `read_liberty -lib ../lib/sky130_fd_sc_hd__tt_025C_1v80.lib`
 
@@ -351,11 +352,13 @@ Yosys is an synthesizer which is used to convert RTL to netlist
 
   3. Synthesis: `synth -top good_mux`
 
-  ![image](https://github.com/benedict04/pes_asic_class/assets/109859485/31c5c6d7-a709-4f76-ab80-a2d2a4338404)
+ ![image](https://github.com/vivek8904/Pes_Asic_class/assets/130572147/511fbaaa-3cac-4125-be7a-e6be391c3eac)
+
 
   4. Generate netlist: `abc -liberty ../lib/sky130_fd_sc_hd__tt_025C_1v80.lib`
+ 
+ ![image](https://github.com/vivek8904/Pes_Asic_class/assets/130572147/1257e10e-61d1-4a69-b3c6-5f98f5a54407)
 
-  ![image](https://github.com/benedict04/pes_asic_class/assets/109859485/2e33b87c-4a72-4c26-8cbf-f1cf539058c7)
 
   5.  Logic realized: `show`
 
