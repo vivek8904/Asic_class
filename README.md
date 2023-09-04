@@ -893,11 +893,8 @@ endmodule
 ```
 **RTL Simulation**
 
-![image](https://github.com/benedict04/pes_asic_class/assets/109859485/5aa90411-941c-4c7e-a6d2-0c4f6c550318)
+![image](https://github.com/vivek8904/Pes_Asic_class/assets/130572147/c4603e09-fbcf-4213-a5b5-c2dc913beb4d)
 
-![image](https://github.com/benedict04/pes_asic_class/assets/109859485/100da2a8-479a-48f3-bc4a-1f668ef85ade)
-
-**Synthesis**
 
 ![image](https://github.com/benedict04/pes_asic_class/assets/109859485/cb0773a4-4fee-45ac-80b6-89145b36c37d)
 
