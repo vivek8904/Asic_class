@@ -929,7 +929,6 @@ endmodule
 
 **GLS**
 
-![image](https://github.com/benedict04/pes_asic_class/assets/109859485/d9f92b5e-4487-451e-8652-cd35e5eb0edc)
 
 
 ![image](https://github.com/benedict04/pes_asic_class/assets/109859485/3c12227a-a34d-4801-92e1-1a77fd42d03c)
