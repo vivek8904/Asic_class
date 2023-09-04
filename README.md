@@ -679,7 +679,8 @@ endmodule
 ```
 **Synthesis**
 
-![image](https://github.com/benedict04/pes_asic_class/assets/109859485/4ad48885-d181-4b65-a62f-fc0b3fb1566c)
+![image](https://github.com/vivek8904/Pes_Asic_class/assets/130572147/2fb7ec72-bfdb-4f8e-8717-d085970743f8)
+
 
 **opt_check2.v**
 ``` v
@@ -689,7 +690,8 @@ endmodule
 ```
 **Synthesis**
 
-![image](https://github.com/benedict04/pes_asic_class/assets/109859485/44ce193b-2f7c-40bd-80be-40ee80f2c944)
+![image](https://github.com/vivek8904/Pes_Asic_class/assets/130572147/45259d1b-00c9-4b47-9a70-33f4e0e47b57)
+
 
 **opt_check3.v**
 ``` v
@@ -699,7 +701,8 @@ endmodule
 ```
 **Synthesis**
 
-![image](https://github.com/benedict04/pes_asic_class/assets/109859485/3f0bd163-4f0a-4508-ba42-052f75facd2d)
+![image](https://github.com/vivek8904/Pes_Asic_class/assets/130572147/6a4c2e4c-0ac6-4ad0-bcb4-49e6953409f0)
+
 
 **multiple_module_opt.v**
 ``` v
@@ -727,7 +730,7 @@ endmodule
 ```
 **Synthesis**
 
-![image](https://github.com/benedict04/pes_asic_class/assets/109859485/6b693e92-56cc-42af-931a-1d2dd986052c)
+![image](https://github.com/vivek8904/Pes_Asic_class/assets/130572147/805362e6-8de6-42d2-88c2-1c96036b3642)
 
 
 # Sequential logic optimizations
