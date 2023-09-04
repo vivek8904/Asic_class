@@ -588,10 +588,11 @@ endmodule
 **Asynchronous Reset D Flip-Flop**
 
 
-![image](https://github.com/benedict04/pes_asic_class/assets/109859485/a36808e7-d503-4daf-bdc7-3127ec1afa22)
+![image](https://github.com/vivek8904/Pes_Asic_class/assets/130572147/1b9654af-6734-4d13-9713-9ea48d67c1d7)
 
 
-![image](https://github.com/benedict04/pes_asic_class/assets/109859485/56b65976-75cc-40e6-9645-57c5336b2902)
+
+![image](https://github.com/vivek8904/Pes_Asic_class/assets/130572147/40a771c0-9b52-4b06-a722-b6daa85a2148)
 
 **Synthesis**
 
