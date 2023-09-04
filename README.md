@@ -866,17 +866,17 @@ endmodule
 ```
 **RTL Simulation**
 
-![image](https://github.com/benedict04/pes_asic_class/assets/109859485/039f7c72-bb08-48e2-8a21-354146eda35e)
-
-![image](https://github.com/benedict04/pes_asic_class/assets/109859485/2ff6334e-2a6e-493c-8845-ac08e2807641)
+![image](https://github.com/vivek8904/Pes_Asic_class/assets/130572147/6897baec-f427-42ea-8db5-e5009ed95ea1)
 
 **Synthesis**
 
-![image](https://github.com/benedict04/pes_asic_class/assets/109859485/0943d01b-1263-4cb4-b83a-40d8b051269d)
+![image](https://github.com/vivek8904/Pes_Asic_class/assets/130572147/0df94d60-94b4-4953-8c06-b7baf9acf6c5)
+
 
 **GLS**
 
-![image](https://github.com/benedict04/pes_asic_class/assets/109859485/e2a7e70b-2f6e-49f8-b2ff-032decd5df88)
+![image](https://github.com/vivek8904/Pes_Asic_class/assets/130572147/59c6d46b-6de0-4acb-a2b1-64dd1505df8e)
+
 
 
 ** bad_mux.v**
