@@ -919,14 +919,13 @@ endmodule
 ```
 **RTL Simulation**
 
-![image](https://github.com/benedict04/pes_asic_class/assets/109859485/4aed3a57-672b-435f-8f7b-8b5c6d0e99f1)
+![image](https://github.com/vivek8904/Pes_Asic_class/assets/130572147/7bdb9589-0327-465a-876d-773c56d67995)
 
-
-![image](https://github.com/benedict04/pes_asic_class/assets/109859485/c88002f9-b95f-47bd-85b1-b99cd6c7b195)
 
 **Synthesis**
 
-![image](https://github.com/benedict04/pes_asic_class/assets/109859485/956d4fe2-9eb8-404e-872c-2ff62a702807)
+![image](https://github.com/vivek8904/Pes_Asic_class/assets/130572147/2574848f-bccc-43d3-94ae-5980219d61d1)
+
 
 **GLS**
 
