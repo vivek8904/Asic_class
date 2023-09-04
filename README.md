@@ -875,7 +875,7 @@ endmodule
 
 **GLS**
 
-![image](https://github.com/vivek8904/Pes_Asic_class/assets/130572147/59c6d46b-6de0-4acb-a2b1-64dd1505df8e)
+![image](https://github.com/vivek8904/Pes_Asic_class/assets/130572147/00fa9698-5bd8-491f-869d-17bdad85ae01)
 
 
 
