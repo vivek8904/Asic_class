@@ -806,13 +806,12 @@ endmodule
 
 **Simulate**
 
-![image](https://github.com/benedict04/pes_asic_class/assets/109859485/f7d87667-53cf-4282-a3cf-6b1866c69816)
-
-![image](https://github.com/benedict04/pes_asic_class/assets/109859485/6c85cc7d-190d-48f1-8896-3b7d49515f57)
+![image](https://github.com/vivek8904/Pes_Asic_class/assets/130572147/74b7c85b-5601-49c6-9d18-27ea5de1ea22)
 
 **Synthesis**
 
-![image](https://github.com/benedict04/pes_asic_class/assets/109859485/bffc33f5-2754-4580-afeb-99d6abe19cc2)
+![image](https://github.com/vivek8904/Pes_Asic_class/assets/130572147/5950487e-50c5-43e0-8499-7af0acd2bbc7)
+
 
 # Sequential optimzations for unused outputs
 **counter_opt.v**
@@ -833,7 +832,8 @@ endmodule
 ```
 **Synthesis**
 
-![image](https://github.com/benedict04/pes_asic_class/assets/109859485/b1f6b80d-0ab5-4615-8729-3cd6ffd8b5d8)
+![image](https://github.com/vivek8904/Pes_Asic_class/assets/130572147/9a85e8a5-41f5-496d-9e13-0c7066b16f1b)
+
 
 
 **counter_opt2.v**
@@ -854,7 +854,7 @@ endmodule
 ```
 **Synthesis**
 
-![image](https://github.com/benedict04/pes_asic_class/assets/109859485/a26d44df-d19c-485f-8894-b08085f38b57)
+![image](https://github.com/vivek8904/Pes_Asic_class/assets/130572147/07b08e4a-7f70-42ac-aed8-30fed93eb5b4)
 
 # Labs on GLS and Synthesis-Simulation Mismatch
 
