@@ -602,10 +602,11 @@ endmodule
 **Asynchronous set D Flip-Flop**
 **Simulation**
 
-![image](https://github.com/benedict04/pes_asic_class/assets/109859485/f0a30274-4a77-40e0-9926-234e284797e3)
+![image](https://github.com/vivek8904/Pes_Asic_class/assets/130572147/96d1af6f-ba79-43b1-b007-f4e2b948f36c)
 
 
-![image](https://github.com/benedict04/pes_asic_class/assets/109859485/e9b072ab-5466-4659-a44e-124b89723b9a)
+![image](https://github.com/vivek8904/Pes_Asic_class/assets/130572147/d3622de1-e117-49a5-8571-ea94010a9c2b)
+
 
 **Synthesis**
 
