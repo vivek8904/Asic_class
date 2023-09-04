@@ -344,11 +344,9 @@ Yosys is an synthesizer which is used to convert RTL to netlist
 
   1. Read library: `read_liberty -lib ../lib/sky130_fd_sc_hd__tt_025C_1v80.lib`
 
-  ![image](https://github.com/benedict04/pes_asic_class/assets/109859485/c59301cd-5838-4876-b0e0-8671010ac3a1)
 
   2. Read design: `read_verilog good_mux.v`
 
-  ![image](https://github.com/benedict04/pes_asic_class/assets/109859485/8935d05a-7850-4bbd-9986-5dd6f1c182e8)
 
   3. Synthesis: `synth -top good_mux`
 
