@@ -776,13 +776,11 @@ endmodule
 ```
 **Simulate**
 
-![image](https://github.com/benedict04/pes_asic_class/assets/109859485/183d4483-0e64-4f4a-8947-45ba4dfad07e)
+![image](https://github.com/vivek8904/Pes_Asic_class/assets/130572147/79db7700-0854-421e-b49f-77cacfa06a18)
 
-![image](https://github.com/benedict04/pes_asic_class/assets/109859485/e52639f1-2ca9-4d00-b2f4-c2c36339990b)
 
 **Synthesis**
-
-![image](https://github.com/benedict04/pes_asic_class/assets/109859485/e188fe50-ddb8-4d97-b9ff-80351e627e49)
+![image](https://github.com/vivek8904/Pes_Asic_class/assets/130572147/47d01e7e-8fbb-4a91-aff2-cc25b4b4127f)
 
 **dff_const3.v**
 ``` v
